@@ -10,3 +10,4 @@ year = "1970"
 is_married = False
 is_true = True
 is_light_on = False
+var_1, var_2, var_3 = 1, "2", 3.0
